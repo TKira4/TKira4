@@ -4,8 +4,9 @@
          width="45" /></h1>
 <h3 align="center">Game Developer</h3>
 
-<img align="right" alt="Game Development" width="300" height ="300" src="<img align="right" alt="Game Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-">
+<img align="right" alt="Game Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 
 
 ## 💫 About Me :
