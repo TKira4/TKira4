@@ -50,7 +50,7 @@
 ## 💳 Github Profile Summary Card
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkira4&theme=dark" alt="tkira4" style="display: inline-block;">
-         
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkira4&show_icons=true&locale=en" alt="tkira4" /></p>
 </div>
 
 ## 🌐 Connect With Me
